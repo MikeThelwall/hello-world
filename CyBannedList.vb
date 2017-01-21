@@ -7,7 +7,7 @@ Module modBannedList
 	Public sgBannedArray(MAX_BANNED_ARRAY_SIZE) As String
 	Public igBannedArrayCount As Integer
 	
-	Public sgActiveProject As String
+	Public sgActiveProject2 As String
 	Public sgLinkFileDirectory As String
 	Public sgBannedListFileName As String
 	Public sgDomainNamesFileName As String
